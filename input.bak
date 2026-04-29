@@ -11,7 +11,7 @@ SVD=	10e-8
 #Interaction strength#
 gstart=	0.0
 dg=	0.1
-Ng=	21
+Ng=	11
 mbond=	5
 
 #Interaction pairs#

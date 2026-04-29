@@ -858,3 +858,144 @@ Max. bond dimension: 12
 
 Final energy = -6.30942460 
 
+Sweep 1 E= 1.6000000000e+02 error= 5.2500000000e+00 MaxBondDim= 1 
+Sweep 2 E= 1.6000000000e+02 error= 0.0000000000e+00 MaxBondDim= 1 
+Convergence reached after sweep 2
+Max. bond dimension: 1
+
+Final energy = 160.00000000 
+
+Initial state calculated
+###############################################################################
+
+##################################
+########g= 0.0 ########
+##################################
+
+####DMRG calculation####
+Construct MPO
+Start DMRG run
+3 E= 1.2416031320e+01 error= 1.5490034185e-01 MaxBondDim= 12 
+Sweep 4 E= 1.0253752401e+01 error= 2.1087684142e-01 MaxBondDim= 18 
+Sweep 5 E= 8.0019606392e+00 error= 2.8140500354e-01 MaxBondDim= 21 
+Sweep 6 E= 5.5105304530e+00 error= 4.5212166186e-01 MaxBondDim= 23 
+Sweep 7 E= 3.2883831488e+00 error= 6.7575680924e-01 MaxBondDim= 22 
+Sweep 8 E= 2.1316564412e+00 error= 5.4264218443e-01 MaxBondDim= 19 
+Sweep 9 E= 1.9097681103e+00 error= 1.1618600692e-01 MaxBondDim= 16 
+Sweep 10 E= 1.5581607580e+00 error= 2.2565537637e-01 MaxBondDim= 16 
+Sweep 11 E= 4.9223294900e-01 error= 2.1654946325e+00 MaxBondDim= 15 
+Sweep 12 E= 1.8161134522e-02 error= 2.6103645337e+01 MaxBondDim= 15 
+Sweep 13 E= -5.3456965078e-02 error= 1.3397337371e+00 MaxBondDim= 12 
+Sweep 14 E= -5.6358401324e-02 error= 5.1481876320e-02 MaxBondDim= 6 
+Sweep 15 E= -5.6369223956e-02 error= 1.9199539934e-04 MaxBondDim= 5 
+Sweep 16 E= -5.6369245688e-02 error= 3.8552973988e-07 MaxBondDim= 5 
+Sweep 17 E= -5.6369244607e-02 error= 1.9168398210e-08 MaxBondDim= 5 
+Sweep 18 E= -5.6369244586e-02 error= 3.7752421719e-10 MaxBondDim= 5 
+Convergence reached after sweep 18
+
+Max. bond dimension: 5
+
+Final energy = -0.05636924 
+
+axBondDim= 5 
+Sweep 2 E= -2.2700492141e-01 error= 1.1375569637e-04 MaxBondDim= 6 
+Sweep 3 E= -2.2700515442e-01 error= 1.0264605028e-06 MaxBondDim= 6 
+Sweep 4 E= -2.2700515623e-01 error= 7.9553781708e-09 MaxBondDim= 6 
+Convergence reached after sweep 4
+
+Max. bond dimension: 6
+
+Final energy = -0.22700516 
+
+axBondDim= 6 
+Sweep 2 E= -5.1715467429e-01 error= 7.5965348814e-05 MaxBondDim= 8 
+Sweep 3 E= -5.1715496726e-01 error= 5.6650074668e-07 MaxBondDim= 8 
+Sweep 4 E= -5.1715496261e-01 error= 8.9802245996e-09 MaxBondDim= 8 
+Convergence reached after sweep 4
+
+Max. bond dimension: 8
+
+Final energy = -0.51715496 
+
+axBondDim= 8 
+Sweep 2 E= -9.3826558799e-01 error= 1.2386852759e-04 MaxBondDim= 10 
+Sweep 3 E= -9.3826768287e-01 error= 2.2327020887e-06 MaxBondDim= 10 
+Sweep 4 E= -9.3826777746e-01 error= 1.0082171080e-07 MaxBondDim= 10 
+Sweep 5 E= -9.3826777811e-01 error= 6.9032472045e-10 MaxBondDim= 10 
+Convergence reached after sweep 5
+
+Max. bond dimension: 10
+
+Final energy = -0.93826778 
+
+xBondDim= 10 
+Sweep 2 E= -1.5119937260e+00 error= 1.7029973905e-04 MaxBondDim= 12 
+Sweep 3 E= -1.5120009930e+00 error= 4.8061915004e-06 MaxBondDim= 12 
+Sweep 4 E= -1.5120012092e+00 error= 1.4299770616e-07 MaxBondDim= 12 
+Sweep 5 E= -1.5120012267e+00 error= 1.1544493789e-08 MaxBondDim= 12 
+Sweep 6 E= -1.5120012276e+00 error= 6.3554048653e-10 MaxBondDim= 12 
+Convergence reached after sweep 6
+
+Max. bond dimension: 12
+
+Final energy = -1.51200123 
+
+xBondDim= 12 
+Sweep 2 E= -2.2583792019e+00 error= 3.6740296364e-04 MaxBondDim= 16 
+Sweep 3 E= -2.2584818456e+00 error= 4.5448117382e-05 MaxBondDim= 14 
+Sweep 4 E= -2.2584841230e+00 error= 1.0083691890e-06 MaxBondDim= 14 
+Sweep 5 E= -2.2584842350e+00 error= 4.9575524639e-08 MaxBondDim= 14 
+Sweep 6 E= -2.2584842390e+00 error= 1.7720055890e-09 MaxBondDim= 14 
+Convergence reached after sweep 6
+
+Max. bond dimension: 14
+
+Final energy = -2.25848424 
+
+xBondDim= 14 
+Sweep 2 E= -3.1527007449e+00 error= 6.2984029092e-05 MaxBondDim= 15 
+Sweep 3 E= -3.1527065372e+00 error= 1.8372462659e-06 MaxBondDim= 14 
+Sweep 4 E= -3.1527057948e+00 error= 2.3546862707e-07 MaxBondDim= 14 
+Sweep 5 E= -3.1527058206e+00 error= 8.1824523302e-09 MaxBondDim= 14 
+Convergence reached after sweep 5
+
+Max. bond dimension: 14
+
+Final energy = -3.15270582 
+
+xBondDim= 14 
+Sweep 2 E= -4.1447099796e+00 error= 1.6782429242e-05 MaxBondDim= 13 
+Sweep 3 E= -4.1447108674e+00 error= 2.1420185664e-07 MaxBondDim= 13 
+Sweep 4 E= -4.1447109295e+00 error= 1.4988576363e-08 MaxBondDim= 13 
+Sweep 5 E= -4.1447105022e+00 error= 1.0310469273e-07 MaxBondDim= 13 
+Sweep 6 E= -4.1447109413e+00 error= 1.0595118337e-07 MaxBondDim= 13 
+Sweep 7 E= -4.1447109466e+00 error= 1.2656737275e-09 MaxBondDim= 13 
+Convergence reached after sweep 7
+
+Max. bond dimension: 13
+
+Final energy = -4.14471095 
+
+xBondDim= 13 
+Sweep 2 E= -5.2025770101e+00 error= 7.5071226485e-06 MaxBondDim= 13 
+Sweep 3 E= -5.2025767126e+00 error= 5.7182466415e-08 MaxBondDim= 12 
+Sweep 4 E= -5.2025767299e+00 error= 3.3115487675e-09 MaxBondDim= 12 
+Convergence reached after sweep 4
+
+Max. bond dimension: 12
+
+Final energy = -5.20257673 
+
+xBondDim= 12 
+Sweep 2 E= -6.3094244197e+00 error= 2.0135393226e-06 MaxBondDim= 12 
+Sweep 3 E= -6.3094245894e+00 error= 2.6901946429e-08 MaxBondDim= 12 
+Sweep 4 E= -6.3094245977e+00 error= 1.3077673096e-09 MaxBondDim= 12 
+Convergence reached after sweep 4
+
+Max. bond dimension: 12
+
+Final energy = -6.30942460 
+
+Sweep 1 E= 1.6000000000e+02 error= 5.2500000000e+00 MaxBondDim= 1 
+Sweep 2 E= 1.6000000000e+02 error= 0.0000000000e+00 MaxBondDim= 1 
+Convergence reached after sweep 2
