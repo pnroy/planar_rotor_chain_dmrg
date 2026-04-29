@@ -137,6 +137,7 @@ println(f)
 create_file("energy.txt",evod,mmax,Nsites)
 create_file("entropy_vN.txt",evod,mmax,Nsites)
 create_file("entropy_Renyi.txt",evod,mmax,Nsites)
+create_file("schmidt_values.txt",evod,mmax,Nsites)
 create_file("mux.txt",evod,mmax,Nsites)
 create_file("muy.txt",evod,mmax,Nsites)
 create_file("xcorr.txt",evod,mmax,Nsites)
@@ -146,9 +147,6 @@ create_file("binder_x.txt",evod,mmax,Nsites)
 create_file("binder_y.txt",evod,mmax,Nsites)
 
 f_int=open("int.txt","w")
-for i=1:Nstates+1
-	create_file("schmidt_values_"*string(i)*".txt",evod,mmax,Nsites)
-end
 
 for ig = 0:Ng-1
 let
@@ -366,9 +364,7 @@ let
 
 			#Calculate von-Neumann entropy and Schmidt coefficients#
 			SvN,Renyi,Svalues = vN_entropy(wavefunction[istates],mbond)
-		
-			write_output("schmidt_values_"*string(istates)*".txt",g,Svalues)
-			
+					
 			#Calculate dipole correlations#
 			xcorr,ycorr = correlation(wavefunction[istates],Nsites,Nspec,evod,X,Y)
 			
